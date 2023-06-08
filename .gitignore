@@ -1,0 +1,4 @@
+*.log
+*.pem
+fileX.txt
+logs/
