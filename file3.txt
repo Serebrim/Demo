@@ -1,0 +1,6 @@
+Source file3
+Hello test
+New line
+
+
+#fixed
