@@ -1,3 +1,5 @@
 Source file1
 New line in this file
-Another file
+New file
+
+Hello from another developer

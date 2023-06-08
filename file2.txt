@@ -1,1 +1,10 @@
 Source file2
+This is new file in my source code
+This is another new line in my source code for demo purpose on GitHub
+
+Created by me.
+
+"Copyleft by me"
+
+Hello World!
+Hello from developer!
